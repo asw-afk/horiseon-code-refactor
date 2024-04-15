@@ -8,35 +8,15 @@ There were no instances of tags other than div, making things bulky and unclear.
 
 
 # css 
-The original included redunancy in the css id's and classes. 
+The original included redunancy in the css id's and classes.
 
-# Example of the original css 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+# An Example of the Original CSS
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+<img src="./assets/images/original.png" class="float-center" />
 
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
+# An Example of the Updated CSS
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+<img src="./assets/images/updated.png" class="float-center" />
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
+# Completed Webpage
+ <img src="./assets/images/image.png" class="float-center" />
