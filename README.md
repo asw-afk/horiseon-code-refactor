@@ -20,3 +20,7 @@ The original included redunancy in the css id's and classes.
 
 # Completed Webpage
  <img src="./assets/images/image.png" class="float-center" />
+
+
+Original source code provided by UCF Instructors.
+Located within the repo at the folder titled original under assets. 
