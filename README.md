@@ -3,17 +3,19 @@
 # https://asw-afk.github.io/horiseon-code-refactor/
 
 A clean up of the original code enclosed below into cohesive semantic htmnl. 
-<!-- 
-(<!DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="en-us">
 
+
+(
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
     <title>website</title>
 </head>
 
-<body>
+<body>)
     <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <div>
@@ -84,8 +86,3 @@ A clean up of the original code enclosed below into cohesive semantic htmnl.
         </p>
         <p id=""twitter"> hello world</p>
     </div>
-    <
-</body>
-
-</html>
-) -->
