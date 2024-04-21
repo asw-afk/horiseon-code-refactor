@@ -117,7 +117,8 @@ aside p {
 
 }
 
-aside img {display: block;
+aside img {
+    display: block;
     margin: 10px auto;
     max-width: 150px;}
 
@@ -145,6 +146,8 @@ article h2 {
     margin-bottom: 20px;
     font-size: 36px;}
 
+/* .optimzation refers to the article class used in main */
+
 .optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -154,7 +157,7 @@ article h2 {
     color: #ffffff;
 }
 
-/*.optimzation refers to the article class used in main */
+
 
 .optimization img {
     max-height: 200px;
